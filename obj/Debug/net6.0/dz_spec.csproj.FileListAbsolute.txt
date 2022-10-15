@@ -1,0 +1,15 @@
+E:\GB_projects\dz_spec\obj\Debug\net6.0\dz_spec.csproj.AssemblyReference.cache
+E:\GB_projects\dz_spec\obj\Debug\net6.0\dz_spec.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB_projects\dz_spec\obj\Debug\net6.0\dz_spec.AssemblyInfoInputs.cache
+E:\GB_projects\dz_spec\obj\Debug\net6.0\dz_spec.AssemblyInfo.cs
+E:\GB_projects\dz_spec\obj\Debug\net6.0\dz_spec.csproj.CoreCompileInputs.cache
+E:\GB_projects\dz_spec\bin\Debug\net6.0\dz_spec.exe
+E:\GB_projects\dz_spec\bin\Debug\net6.0\dz_spec.deps.json
+E:\GB_projects\dz_spec\bin\Debug\net6.0\dz_spec.runtimeconfig.json
+E:\GB_projects\dz_spec\bin\Debug\net6.0\dz_spec.dll
+E:\GB_projects\dz_spec\bin\Debug\net6.0\dz_spec.pdb
+E:\GB_projects\dz_spec\obj\Debug\net6.0\dz_spec.dll
+E:\GB_projects\dz_spec\obj\Debug\net6.0\refint\dz_spec.dll
+E:\GB_projects\dz_spec\obj\Debug\net6.0\dz_spec.pdb
+E:\GB_projects\dz_spec\obj\Debug\net6.0\dz_spec.genruntimeconfig.cache
+E:\GB_projects\dz_spec\obj\Debug\net6.0\ref\dz_spec.dll
